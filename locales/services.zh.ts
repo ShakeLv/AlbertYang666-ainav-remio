@@ -374,6 +374,7 @@ const zhServices = {
     description: 'AI驱动的临床助手，自动化文档记录、支持结构化诊断推理、优化医疗工作流程，提供实时临床见解',
     tags: ['AI医疗', '医疗AI', '临床决策支持'],
   },
+  remio: { name: 'Remio', description: '本地优先的 AI 记忆与知识库桌面应用，用于用户和 Agent 的个人上下文检索', tags: ['知识库', '记忆', '效率'] },
 };
 
 export default zhServices;
