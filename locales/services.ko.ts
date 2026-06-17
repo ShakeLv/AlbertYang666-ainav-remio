@@ -122,6 +122,7 @@ const koServices = {
   'fast-image-ai': { name: 'Fast Image AI', description: '인기 있는 아트 스타일로 사진을 빠르게 변환', tags: ['이미지 변환', '스타일 전송'] },
   'lockedin-ai': { name: 'LockedIn AI', description: '100% 숨겨진 면접 도우미. AI 기반 제안, 코드 스니펫 및 상황별 인사이트를 실시간으로 제공', tags: ['면접 도우미', '커리어 도구', 'AI 코파일럿'] },
   medally: { name: 'MedAlly', description: 'AI 기반 임상 어시스턴트로 문서화를 자동화하고 구조화된 진단 추론을 지원하며 실시간 임상 통찰력으로 의료 워크플로우를 최적화합니다', tags: ['AI 의료', '의료 AI', '임상 의사결정 지원'] },
+  remio: { name: 'Remio', description: '개인 및 에이전트 컨텍스트 검색을 위한 로컬 우선 AI 메모리 및 지식 베이스 데스크톱 앱', tags: ['지식 베이스', '메모리', '생산성'] },
 };
 
 export default koServices;
