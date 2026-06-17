@@ -374,6 +374,7 @@ const enServices = {
     description: 'AI-powered clinical assistant that automates documentation, supports structured diagnostic reasoning, and optimizes healthcare workflows with real-time clinical insights',
     tags: ['AI Healthcare', 'Medical AI', 'Clinical Decision Support'],
   },
+  remio: { name: 'Remio', description: 'Local-first AI memory and knowledge base desktop app for personal and agent context retrieval', tags: ['Knowledge Base', 'Memory', 'Productivity'] },
 };
 
 export default enServices;
